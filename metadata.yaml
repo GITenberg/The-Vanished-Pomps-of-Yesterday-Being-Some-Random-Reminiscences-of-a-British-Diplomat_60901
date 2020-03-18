@@ -1,0 +1,35 @@
+_repo: The-Vanished-Pomps-of-Yesterday-Being-Some-Random-Reminiscences-of-a-British-Diplomat_60901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Frederic, Lord
+    aliases:
+    - Hamilton, Frederick Spencer, Lord
+    - Hamilton, Frederick Spenser, Lord
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '1323'
+    url: http://www.gutenberg.org/2009/agents/1323
+    wikipedia: http://en.wikipedia.org/wiki/Lord_Frederick_Spencer_Hamilton
+description: ''
+gutenberg_issued: '2020-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60901'
+  lccn: '21018090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social life and customs'
+- !lcsh 'Courts and courtiers'
+- !lcc 'D'
+- !lcsh 'Diplomats -- Great Britain -- Biography'
+- !lcsh 'South America -- Social life and customs'
+- !lcsh 'Hamilton, Frederic, Lord, 1856-1928'
+- GITenberg
+title: 'The Vanished Pomps of Yesterday
+
+  Being Some Random Reminiscences of a British Diplomat'
+url: http://www.gutenberg.org/ebooks/60901
